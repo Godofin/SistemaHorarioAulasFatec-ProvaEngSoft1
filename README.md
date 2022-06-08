@@ -1,9 +1,16 @@
-# Análise de Sistema: Visualização de horário das aulas.
+# Análise de Sistema: Visualização de horário das aulas
 
 # Escopo
 
+A faculdade de tecnologia de Taquaritinga é uma instituição de ensino superior de qualidade e gratuito mantido pelo governo do estado de São Paulo através da secretaria de desenvolvimento tecnológico. 
 
+A faculdade é composta por vários setores responsáveis por todo o funcionamento da instituição. Cada setor tem sua devida importância administrativa e acadêmica. A coordenação de curso cuida de toda a burocracia envolvendo professores, disciplinas com o apoio da secretaria acadêmica. 
 
+Os professores são o papel essencial para que uma instituição de ensino funcione, com isso é necessário conferir a disponibilidade de horário de cada professor para que seja possível que o coordenador do curso da instituição consiga realizar o planejamento das aulas do semestre letivo.
+
+# Objetivo
+
+O objetivo desse trabalho é criar uma solução com ferramentas desenvolvidas na matéria de Engenharia de Software I onde, é visado, projetar um sistema que faça uma integração mais automática e com uma melhor visualização a questão do mapeamento de aulas de um semestre letivo da Fatec Taquaritinga. 
 
 # Regras de negócio
 
@@ -56,9 +63,8 @@
 
 # Prototipação
 
-Link protótipo Figma: https://www.figma.com/proto/d1rCw8RfYYlMJKqGoP2Jja/Untitled?page-id=0%3A1&node-id=2%3A2&viewport=-1014%2C421%2C0.58&scaling=min-zoom&starting-point-node-id=2%3A2
-
+Link protótipo Figma: https://www.figma.com/proto/d1rCw8RfYYlMJKqGoP2Jja/Untitled?page-id=0%3A1&node-id=2%3A2&viewport=-1014%2C421%2C0.58&scaling=min-zoom&starting-point-node-id=2%3A2.
 
 # Cronograma
 
-- O projeto deve seguir a metodologia ágil Scrum. Conferir a aba projeto no Github
+- O projeto deve seguir a metodologia ágil Scrum. Conferir a aba "Projects" no Github.
