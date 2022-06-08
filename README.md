@@ -38,3 +38,22 @@
 | RF09   | Os professores devem lançar sua disponibilidade em uma tabela |X||||   |   |
 | RF11   | O sistema deve ter um menu lateral   |X||||   |   |
 | RF12   | Em caso de reprovação de horário, o professor deve ser notificado pela plataforma e por e-mail   |X||||   |   |
+
+## Regras para confeccionar o lançamento de disponibilidade
+1. Marque as caixas vazias em que você TEM disponibilidade para ministrar aulas.
+2. Sua disponibilidade precisa ser pelo menos 50% superior ao total de horas-aulas a ministrar no turno (M, T, N).
+3. Se o seu total de aulas para o  2º Semestre 2022 for diferente do proposto aqui, dê a disponibilidade apropriada.
+4. Deverá ser respeitado o interstício de 11 horas entre a jornada da noite e da manhã.
+5. Deverá ser respeitado o interstício de 11 horas entre a jornada da noite e da manhã.
+6. Deverá ser respeitado o interstício de 11 horas entre a jornada da noite e da manhã.
+7. Será considerada a disponibilidade total caso o docente não entregue sua disponibilidade até a data informada.
+8. Para enviar a planilha até o coordenador, será necessário apenas apertar o botão enviar na aba “Definir Disponibilidade”.
+
+# Prototipação
+
+Link protótipo Figma: https://www.figma.com/proto/d1rCw8RfYYlMJKqGoP2Jja/Untitled?page-id=0%3A1&node-id=2%3A2&viewport=-1014%2C421%2C0.58&scaling=min-zoom&starting-point-node-id=2%3A2
+
+
+# Cronograma
+
+- O projeto deve seguir a metodologia ágil Scrum. Conferir a aba projeto no Github
