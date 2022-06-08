@@ -1,12 +1,9 @@
 # Análise de Sistema: Visualização de horário das aulas.
 
-## Regras de confeccção de horário - Dados obtidos por entrevista
+# Escopo
 
-1. Professor informa sua disponibilidade de horário para o coordenador de cada disciplina a ser lecionada;
-2. O coordenador é quem tem a função de separar a grade de aulas;
-3. O coordenador deve seguir a disponibilidade informado pelo professor;
-4. Assim que o coordenador finalizar o horário, deverá enviar para os funcionários responsáveis da secretaria da faculdade;
-5. Secretaria tem a função de upar os horários no siga por conta de não haver sincronização direta;
+
+
 
 # Regras de negócio
 
@@ -48,6 +45,14 @@
 6. Deverá ser respeitado o interstício de 11 horas entre a jornada da noite e da manhã.
 7. Será considerada a disponibilidade total caso o docente não entregue sua disponibilidade até a data informada.
 8. Para enviar a planilha até o coordenador, será necessário apenas apertar o botão enviar na aba “Definir Disponibilidade”.
+
+## Regras de confeccção de horário - Dados obtidos por entrevista
+
+1. Professor informa sua disponibilidade de horário para o coordenador de cada disciplina a ser lecionada;
+2. O coordenador é quem tem a função de separar a grade de aulas;
+3. O coordenador deve seguir a disponibilidade informado pelo professor;
+4. Assim que o coordenador finalizar o horário, deverá enviar para os funcionários responsáveis da secretaria da faculdade;
+5. Secretaria tem a função de upar os horários no siga por conta de não haver sincronização direta;
 
 # Prototipação
 
