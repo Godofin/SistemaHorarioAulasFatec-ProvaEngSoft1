@@ -36,12 +36,12 @@ O objetivo desse trabalho é criar uma solução com ferramentas desenvolvidas n
 | RF03   | Deve haver uma autenticação de login.  ||X||
 | RF04   | O sistema deve armazenar log de qualquer ação com data e hora e a determinada ação realizada   |X|||
 | RF05   | O coordenador tem que realizar a aprovação ou reprovação de horas |X|||
-| RF06   | Os professores devem seguir as regras de negócio em disponibilidade |X||||   |   |
-| RF07   | Deve haver uma sincronização com o siga |X||||   |   |
-| RF08   | Deve haver uma possibilidade da secretarua baixar o arquivo como Excel|X||||   |   |
-| RF09   | Os professores devem lançar sua disponibilidade em uma tabela |X||||   |   |
-| RF11   | O sistema deve ter um menu lateral   |X||||   |   |
-| RF12   | Em caso de reprovação de horário, o professor deve ser notificado pela plataforma e por e-mail   |X||||   |   |
+| RF06   | Os professores devem seguir as regras de negócio em disponibilidade |X|||| 
+| RF07   | Deve haver uma sincronização com o siga |X||||
+| RF08   | Deve haver uma possibilidade da secretaria baixar o arquivo como Excel|||x||  
+| RF09   | Os professores devem lançar sua disponibilidade em uma tabela |X|||| 
+| RF11   | O sistema deve ter um menu lateral   |X||||
+| RF12   | Em caso de reprovação de horário, o professor deve ser notificado pela plataforma e por e-mail   |X||||
 
 ## Regras para confeccionar o lançamento de disponibilidade
 1. Marque as caixas vazias em que você TEM disponibilidade para ministrar aulas.
